@@ -131,7 +131,7 @@ brew install redis-server
 5. Start redis server
 
 ```
-redis_server
+redis-server
 ```
 
 6. Start the server:
